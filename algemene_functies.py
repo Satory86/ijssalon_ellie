@@ -1,7 +1,6 @@
 def mijn_functie_1(a):
     uitvoer = a ** 2
     return uitvoer
-print(mijn_functie_1)
 
 
 def mijn_functie_2(a, b):
@@ -10,4 +9,3 @@ def mijn_functie_2(a, b):
     uitvoer_3 = a * b 
     uitvoer_4 = a / b
     return uitvoer_1, uitvoer_2, uitvoer_3, uitvoer_4
-print(mijn_functie_2)
